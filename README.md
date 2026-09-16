@@ -1,21 +1,16 @@
 <div align="center">
-
-# Hi 👋, I'm Dhinesh
-
-### AI & Backend Developer | AI & Data Science Student 🚀
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Systems;Exploring+RAG+%26+LLMs;Backend+Engineering+%26+System+Design;Computer+Vision+%26+Networking" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhinesh;AI+%26+Backend+Developer+%F0%9F%9A%80;Building+AI-Powered+Systems+%26+Developer+Tools" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<h3 align="center">🎓 AI & Data Science Student | 🤖 AI & Backend Developer building from India 🇮🇳</h3>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dhineshsakthivel2007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/Dhineshsakthivel2007?label=Followers&style=flat" alt="GitHub Followers"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Dhineshsakthivel2007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dhineshsakthivel2007?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
@@ -24,121 +19,199 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **B.Tech Artificial Intelligence & Data Science** student at **Bannari Amman Institute of Technology**
+🎓 **B.Tech Artificial Intelligence & Data Science** at **Bannari Amman Institute of Technology** (2024–2028)
 
 💻 Interested in **AI Engineering, Backend Development, RAG and Intelligent Systems**
 
 🤖 Building applications using **LLMs, RAG, Computer Vision and Machine Learning**
 
-⚙️ Working with **Python, FastAPI, PostgreSQL, Redis and Docker**
+⚙️ Developing backend systems with **Python, FastAPI, PostgreSQL, Redis and Docker**
 
 🌐 Exploring **Computer Networks, Linux, Networking Automation and Cybersecurity**
 
 🧠 Currently strengthening **Data Structures & Algorithms and System Design**
 
-🚀 Participating in **Hackathons and technical innovation challenges**
+🏭 Currently working on AI solutions for **confidential industrial workflows** (Smart India Hackathon)
 
-🏭 Currently working on AI solutions for **confidential industrial workflows**
+🏆 Participating in **Hackathons and technical innovation challenges**
 
-⚡ I enjoy converting complex technical problems into practical software systems.
+⚡ I enjoy turning complex technical problems into practical software systems.
 
 <br clear="both"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 💼 Experience & Projects Snapshot
+
+- 🔹 **NetPilot** — AI-assisted automated evaluation platform for Cisco Packet Tracer networking labs; parses `.pkt` files and AI-evaluates networking configurations, built on a React + FastAPI + PostgreSQL/Redis stack
+- 🔹 **Sovereign AI Workbench** — on-premise Agentic AI platform for confidential industrial workflows, built for Smart India Hackathon (MRPL PS #26117); hybrid dense + keyword RAG, open-weight LLM routing, isolated deployment
+- 🔹 **Live News RAG** — source-aware AI system for querying current news, combining News API ingestion, ChromaDB vector search, Sentence Transformers embeddings and an LLM-powered React interface
+- 🔹 **Computer Vision Projects** — real-time inspection and detection systems using OpenCV, YOLO and PyTorch
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛰️ NetPilot
+**AI-assisted automated evaluation platform for Cisco Packet Tracer networking labs**
 
-**AI-assisted automated evaluation platform for Cisco Packet Tracer networking labs.**
-
-NetPilot is designed to help instructors automatically evaluate student networking configurations and generate structured evaluation results.
-
-**Key areas:**
-
-- Cisco Packet Tracer `.pkt` processing
+- Cisco Packet Tracer `.pkt` file processing
 - Automated networking-lab evaluation
 - AI-assisted configuration analysis
-- Networking knowledge extraction
-- Backend API architecture
-- Role-based access control
+- Backend API architecture with role-based access
 
-**Tech Stack:**
-
-`React` `FastAPI` `PostgreSQL` `pgvector` `Redis` `Docker` `Python`
+**Tech:** `React` `FastAPI` `PostgreSQL` `pgvector` `Redis` `Docker` `Python`
 
 ---
 
 ### 🏭 Sovereign AI Workbench
+**On-premise Agentic AI platform for confidential industrial workflows**
 
-**On-premise Agentic AI platform for confidential industrial workflows.**
-
-A solution designed around secure, local AI processing for sensitive industrial documents and information.
-
-**Key areas:**
-
-- 🔐 Data sovereignty
-- 🤖 Open-weight LLMs
-- 📚 Retrieval-Augmented Generation
-- 🔎 Hybrid retrieval
-- 🧠 Model routing
-- 🏭 Industrial document intelligence
+- 🔐 Data sovereignty & security
+- 🤖 Open-weight, multimodal LLM integration
+- 📚 Hybrid dense + keyword RAG pipelines
+- 🧠 Compute-aware model routing
+- 🏭 Confidential industrial document processing
 - ⚡ Efficient inference under hardware constraints
-- 🌐 On-premise / isolated deployment
 
-**Tech Stack:**
-
-`Python` `LLMs` `RAG` `PostgreSQL` `pgvector` `Redis` `MinIO` `Docker`
+**Tech:** `Python` `LLMs` `RAG` `pgvector` `PostgreSQL` `Redis` `MinIO` `Docker`
 
 ---
 
-### 👁️ Computer Vision Systems
+### 📰 Live News RAG
+**Source-aware AI system for querying current news**
 
+- News API ingestion + semantic document retrieval
+- Vector database search with source-aware responses
+- LLM-powered question answering
+- React-based interface
+
+**Tech:** `Python` `RAG` `Sentence Transformers` `ChromaDB` `LLMs` `React`
+
+---
+
+### 👁️ Computer Vision Projects
 Exploring real-time computer vision and intelligent inspection systems.
 
-**Technologies:**
-
-`Python` `OpenCV` `YOLO` `PyTorch`
+**Tech:** `Python` `OpenCV` `YOLO` `PyTorch`
 
 ---
 
-## 🏆 Hackathons & Technical Work
+## 🏆 Hackathons & Technical Challenges
 
 ### 🇮🇳 Smart India Hackathon
-
 Working on **MRPL Problem Statement 26117**:
 
 > **Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work**
-
-Focus:
 
 `AI Security` · `RAG` · `LLMs` · `Model Routing` · `Industrial AI` · `On-Premise Systems`
 
 ---
 
-### 🤖 NIDAR
-
-Worked in the **Autonomous Navigation** domain involving robotics, computer vision and embedded systems.
-
-**Explored:**
+### 🌊 NIDAR
+Participated in the **autonomous navigation** domain involving robotics and computer vision.
 
 `ROS` `Jetson` `Computer Vision` `Autonomous Navigation`
 
 ---
 
-### 🌊 AquaTech / ROV Project
-
+### 💧 AquaTech Innovation / ROV Projects
 Worked on underwater robotics and inspection concepts.
-
-**Technologies explored:**
 
 `Raspberry Pi` `Pixhawk` `Blue Robotics` `Computer Vision`
 
 ---
 
-## 🧠 Currently Learning
+## 🌐 Connect with me
 
-```text
+<div align="center">
+  <a href="https://github.com/Dhineshsakthivel2007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<!-- Replace YOUR_LINKEDIN_URL and YOUR_EMAIL@example.com above with your real links -->
+
+---
+
+## 🛠️ Tech Stack
+
+**🖥️ Languages & Backend**
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,fastapi,nodejs" />
+</p>
+
+**🗄️ Databases & Caching**
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+**🤖 AI / Machine Learning**
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,python" />
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/RAG-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VECTOR_SEARCH-006400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
+</p>
+
+**🌐 Frontend & DevOps**
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,docker,linux,git,githubactions,vscode" />
+</p>
+
+**📡 Networking**
+<br>
+`TCP/IP` · `DNS` · `DHCP` · `HTTP/HTTPS` · `Routing` · `VLAN` · `OSPF` · `NAT` · `ACL` · `Packet Analysis`
+<br>
+**Tools:** `Wireshark` · `Cisco Packet Tracer` · `Linux Networking Utilities`
+
+---
+
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=Dhineshsakthivel2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></td>
+<td align="center"><img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshsakthivel2007&layout=compact&theme=tokyonight&hide_border=true" /></td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhineshsakthivel2007&theme=tokyonight&hide_border=true" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhineshsakthivel2007&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhineshsakthivel2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+</div>
+
+---
+
+## 🧠 What I'm Currently Learning
+
+\`\`\`text
                     SOFTWARE ENGINEERING
                            │
              ┌─────────────┼─────────────┐
@@ -156,153 +229,13 @@ Worked on underwater robotics and inspection concepts.
                            │
                   Linux • Docker
                   Networking • Cloud
-````
+\`\`\`
 
 ---
 
-# 🛠️ Tech Stack
+## 🎯 Goals
 
-## 💻 Languages
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</p>
-
-`RAG` · `LLMs` · `Embeddings` · `Vector Search` · `Hybrid Retrieval` · `Computer Vision`
-
----
-
-## ⚙️ Backend
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-
-</p>
-
-`REST APIs` · `Authentication` · `RBAC` · `Background Jobs` · `API Architecture`
-
----
-
-## 🗄️ Databases & Storage
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MinIO-C72E29?style=for-the-badge&logo=minio&logoColor=white"/>
-
-</p>
-
----
-
-## 🌐 Frontend
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
-
----
-
-## 🐳 DevOps & Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-</p>
-
----
-
-## 🌐 Networking
-
-`TCP/IP` · `DNS` · `DHCP` · `HTTP/HTTPS` · `Routing` · `VLAN`
-
-`OSPF` · `RIP` · `STP` · `NAT` · `ACL` · `Packet Analysis`
-
-**Tools:**
-
-`Wireshark` · `Cisco Packet Tracer` · `Linux Networking Utilities`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhineshsakthivel2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshsakthivel2007&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dhineshsakthivel2007&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhineshsakthivel2007&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhineshsakthivel2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
-
-</div>
-
----
-
-# 🎯 Goals
-
-```text
+\`\`\`text
 ✓ Build real-world AI applications
 ✓ Become strong in Data Structures & Algorithms
 ✓ Master Backend Engineering
@@ -310,23 +243,7 @@ Worked on underwater robotics and inspection concepts.
 ✓ Build production-quality RAG systems
 ✓ Strengthen Linux & Networking
 ✓ Explore scalable AI infrastructure
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Dhineshsakthivel2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+\`\`\`
 
 ---
 
@@ -338,4 +255,8 @@ Worked on underwater robotics and inspection concepts.
 
 <i>Building intelligent systems and learning something new every day.</i>
 
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
