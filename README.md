@@ -191,27 +191,23 @@ Worked on underwater robotics and inspection concepts.
 </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Dhineshsakthivel2007&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhineshsakthivel2007&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
+</div> -->
 
----
-
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhineshsakthivel2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
-</div>
+</div> -->
 
----
 
 ## 🧠 What I'm Currently Learning
 
-\`\`\`text
                     SOFTWARE ENGINEERING
                            │
              ┌─────────────┼─────────────┐
@@ -229,7 +225,6 @@ Worked on underwater robotics and inspection concepts.
                            │
                   Linux • Docker
                   Networking • Cloud
-\`\`\`
 
 ---
 
