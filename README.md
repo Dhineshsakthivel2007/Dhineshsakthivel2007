@@ -17,35 +17,25 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 8.8)
-💼 **Software Development Intern** at **BYTS India** — designed and shipped backend systems serving real users
+🎓 **B.Tech, Artificial Intelligence and Data Science** (CGPA: 7.52)
 🧠 Deep interest in **System Design** — message queues, load balancing, rate limiting, and Low-Level Design (LLD) patterns
 ⚙️ Hands-on with **Kafka, Redis, and distributed system building blocks** to build systems that scale
 🌱 Currently exploring **event-driven architectures and Explainable AI**
-🏆 **Codeforces Expert** | **LeetCode Knight** | **CodeChef 4-Star**
-⚡ Fun fact: **Selected for Amazon ML Summer School two years in a row (2025 & 2026)!**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 💼 Experience & Projects Snapshot
-
-- 🔹 **[A2Z DSA](https://a2zdsa.com/)** (BYTS India) — 15+ RESTful APIs, Redis caching, query optimization → 40% smaller JS payload, faster response times
-- 🔹 **CryptoFlow** — real-time, event-driven crypto analytics using WebSockets + Redis-backed pipelines, sub-second latency at 10K+ daily active users
-- 🔹 **[IntelliPlace](https://p-cell-xfji.vercel.app/login)** — recruitment analytics platform with JWT/RBAC-secured APIs, cut admin effort by 70%, accelerated hiring by 50%
-- 🔹 **MedGenX** — GAN-based synthetic medical data generation with Explainable AI, 25% lower FID
-
 ## 🌐 Connect with me:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/taufiuqeiiita/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhineshsakthivel2007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:taufiquekhan786.edu@gmail.com" target="_blank">
+  <a href="mailto:dhineshsakthivel2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/taufique1524" target="_blank">
+  <a href="https://github.com/Dhineshsakthivel2007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -54,7 +44,7 @@
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/taufique1524"
+  src="https://render.gitanimals.org/farms/Dhineshsakthivel"
   width="600"
   height="300"
 />
@@ -120,19 +110,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=taufique1524&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%"/>
 </div>
-
-## 🎯 Competitive Programming & Awards
-
-- 🏅 **Codeforces Expert** — Global Rank 507, Round 954 (Div. 3)
-- 🏅 **LeetCode Knight** — Global Rank 891, Weekly Contest 352
-- 🏅 **CodeChef 4-Star** — Global Rank 186, Starters 140 (Div. 2)
-- 🚀 **Amazon ML Summer School 2026** — Selected among 3,000 from 1.3 lakh+ applicants
-- 🚀 **Amazon ML Summer School 2025** — Rank under 3,000 among 50,000+ participants
-- 🌐 **Meta Hacker Cup** — Qualified for Round 2 (Global Rank 3179), Round 1 Rank 3677
-- 💡 **Google Big Code Challenge** — Qualified nationwide
-- 🛒 **Flipkart GRID 7.0** — Semi-Finalist
-- 🏆 **HackVega 2026** — Finalist, Top 1.9% of 47,000+ participants
-- 📝 **Problem Setter** at GeeksforGeeks
 
 ## 📈 Contribution Stats:
 
