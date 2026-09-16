@@ -183,21 +183,21 @@ Worked on underwater robotics and inspection concepts.
 ---
 
 ## 📊 GitHub Analytics
-
+<!-- 
 <table>
 <tr>
 <td align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=Dhineshsakthivel2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></td>
 <td align="center"><img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshsakthivel2007&layout=compact&theme=tokyonight&hide_border=true" /></td>
 </tr>
-</table>
+</table> -->
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Dhineshsakthivel2007&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhineshsakthivel2007&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div> -->
+</div>
 
 <!-- ## 🏆 GitHub Trophies
 
