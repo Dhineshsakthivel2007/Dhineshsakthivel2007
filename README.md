@@ -226,11 +226,9 @@ Worked on underwater robotics and inspection concepts.
                   Linux • Docker
                   Networking • Cloud
 
----
 
 ## 🎯 Goals
 
-\`\`\`text
 ✓ Build real-world AI applications
 ✓ Become strong in Data Structures & Algorithms
 ✓ Master Backend Engineering
@@ -238,9 +236,7 @@ Worked on underwater robotics and inspection concepts.
 ✓ Build production-quality RAG systems
 ✓ Strengthen Linux & Networking
 ✓ Explore scalable AI infrastructure
-\`\`\`
 
----
 
 <div align="center">
 
