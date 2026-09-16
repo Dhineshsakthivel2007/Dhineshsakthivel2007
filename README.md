@@ -1,208 +1,350 @@
 ````markdown
-# Hi, I'm Dhinesh 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhinesh;AI+%26+Backend+Developer+%F0%9F%9A%80;Building+AI-Powered+Systems+%26+Developer+Tools" alt="Typing SVG" />
+</div>
 
-### AI & Data Science Student | AI + Backend Engineer
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-I'm a B.Tech AI & Data Science student focused on building **AI-powered applications, backend systems, and intelligent developer tools**.
+<h3 align="center">
+  🎓 AI & Data Science Student | 🤖 AI & Backend Developer | 🇮🇳 India
+</h3>
 
-I enjoy turning complex problems into practical, scalable software.
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Dhineshsakthivel2007">
-    <img src="https://img.shields.io/github/followers/Dhineshsakthivel2007?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Dhineshsakthivel2007">
-    <img src="https://img.shields.io/github/stars/Dhineshsakthivel2007?label=Stars&style=for-the-badge" />
-  </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Dhineshsakthivel2007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
----
+  <img src="https://img.shields.io/github/followers/Dhineshsakthivel2007?label=Followers&style=social" alt="GitHub Followers" />
 
-## 🚀 What I Build
-
-- 🤖 AI-powered applications and intelligent automation
-- 🧠 RAG pipelines and LLM-based systems
-- ⚙️ Backend APIs and scalable services
-- 🌐 Full-stack applications
-- 🔍 Computer vision systems
-- 🌐 Networking and infrastructure tools
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 About Me
 
-### Languages
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,sql" />
-</p>
+🎓 **B.Tech Artificial Intelligence & Data Science** student at **Bannari Amman Institute of Technology** (2024–2028)
 
-### AI / Machine Learning
+💻 Interested in **AI Engineering, Backend Development, RAG and Intelligent Systems**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-</p>
+🤖 Building applications using **LLMs, RAG, Computer Vision and Machine Learning**
 
-`YOLO` · `RAG` · `LLMs` · `Embeddings` · `Vector Search` · `scikit-learn`
+⚙️ Developing backend systems with **Python, FastAPI, PostgreSQL, Redis and Docker**
 
-### Backend & Databases
+🌐 Exploring **Computer Networks, Linux, Networking Automation and Cybersecurity**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis" />
-</p>
+🧠 Currently strengthening **DSA, Backend Engineering and System Design**
 
-`SQLAlchemy` · `pgvector` · `REST APIs` · `Celery`
+🚀 Building projects that combine **AI + Backend + Real-world Problem Solving**
 
-### Frontend
+🏆 Participating in **Hackathons and technical innovation challenges**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
-</p>
+⚡ I enjoy turning complex technical problems into practical software systems.
 
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
-</p>
-
-`GitHub Actions` · `Wireshark` · `Cisco Packet Tracer`
+<br clear="both"/>
 
 ---
 
-# 🔥 Featured Projects
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🚦 NetPilot
+# 💼 Experience & Projects Snapshot
 
-**AI-assisted automated evaluation platform for Cisco Packet Tracer labs.**
+### 🔹 NetPilot
+**AI-assisted automated evaluation platform for Cisco Packet Tracer networking labs**
 
-NetPilot helps instructors automatically evaluate `.pkt` networking labs and generate structured evaluation results.
+- Automated evaluation of networking configurations
+- Packet Tracer `.pkt` file processing
+- AI-assisted evaluation workflow
+- Networking configuration analysis
+- React + FastAPI based architecture
+- PostgreSQL + Redis backend infrastructure
 
-**Tech Stack**
-
-`React` `FastAPI` `PostgreSQL` `pgvector` `Redis` `Docker` `AI`
-
-**Focus**
-
-- Automated networking-lab evaluation
-- Packet Tracer file processing
-- AI-assisted evaluation
-- Backend API architecture
-- Networking knowledge extraction
+**Tech:** `React` `FastAPI` `PostgreSQL` `Redis` `Docker` `AI` `Networking`
 
 ---
 
-## 🏭 Sovereign AI Workbench
+### 🔹 Sovereign AI Workbench
 
-**On-premise agentic AI platform for confidential industrial workflows.**
+**On-premise Agentic AI platform for confidential industrial workflows**
 
-Designed around privacy-preserving AI deployment where sensitive industrial documents and data remain within the organization's infrastructure.
+- Designed for sensitive industrial data
+- RAG-based document intelligence
+- Hybrid retrieval using dense + keyword search
+- Open-weight LLM integration
+- Model routing based on available compute
+- Designed for isolated/on-premise deployment
 
-**Tech Stack**
-
-`Python` `LLMs` `RAG` `PostgreSQL` `pgvector` `MinIO` `Redis` `Docker`
-
-**Focus**
-
-- On-premise AI
-- RAG pipelines
-- Hybrid retrieval
-- Model routing
-- Document intelligence
-- Network isolation
-- Confidential data processing
+**Tech:** `Python` `LLMs` `RAG` `pgvector` `PostgreSQL` `Redis` `MinIO` `Docker`
 
 ---
 
-## 👁️ Computer Vision Systems
+### 🔹 Live News RAG
 
-Exploring real-time computer vision using OpenCV and YOLO for image detection and intelligent inspection applications.
+**Source-aware AI system for querying current news**
 
-**Technologies**
+- News API ingestion
+- Semantic document retrieval
+- Vector database search
+- Source-aware responses
+- LLM-powered question answering
+- React-based interface
+
+**Tech:** `Python` `RAG` `Sentence Transformers` `ChromaDB` `LLMs` `React`
+
+---
+
+### 🔹 Computer Vision Projects
+
+Exploring real-time computer vision and intelligent inspection systems using:
 
 `Python` `OpenCV` `YOLO` `PyTorch`
 
 ---
 
-# 🧠 Currently Learning
+# 🚀 Hackathons & Technical Challenges
+
+### 🏆 Smart India Hackathon
+
+Working on **MRPL Problem Statement 26117**:
+
+**Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work**
+
+Focus areas:
+
+- 🔐 Data sovereignty & security
+- 🤖 Open-weight AI models
+- 📚 RAG pipelines
+- 🧠 Intelligent model routing
+- 🏭 Confidential industrial document processing
+- ⚡ Efficient AI inference under hardware constraints
+
+---
+
+### 🌊 NIDAR
+
+Participated in the **autonomous navigation** domain involving robotics and computer vision.
+
+Explored:
+
+`ROS` `Jetson` `Computer Vision` `Autonomous Navigation`
+
+---
+
+### 💧 AquaTech Innovation / ROV Projects
+
+Worked on underwater robotics and inspection concepts involving:
+
+`Raspberry Pi` `Pixhawk` `Blue Robotics` `Computer Vision`
+
+---
+
+# 🧠 What I'm Currently Learning
 
 ```text
-DSA & Problem Solving
-        ↓
+DSA
+ │
+ ├── Arrays
+ ├── Searching & Sorting
+ ├── Recursion
+ ├── Linked Lists
+ ├── Trees
+ ├── Graphs
+ └── Dynamic Programming
+
 Backend Engineering
-        ↓
-System Design
-        ↓
-AI / LLM Systems
-        ↓
-Cloud & Distributed Systems
+ │
+ ├── FastAPI
+ ├── PostgreSQL
+ ├── Redis
+ ├── REST APIs
+ └── System Design
+
+AI Engineering
+ │
+ ├── RAG
+ ├── LLMs
+ ├── Embeddings
+ ├── Vector Search
+ ├── Computer Vision
+ └── Model Optimization
 ````
 
-Currently focusing on:
-
-* Data Structures & Algorithms
-* Backend architecture
-* System design
-* RAG & LLM applications
-* Docker & Linux
-* Cloud fundamentals
-
 ---
 
-# 📈 GitHub Activity
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhineshsakthivel2007&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshsakthivel2007&layout=compact&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhineshsakthivel2007&hide_border=true" />
-</p>
-
----
-
-# 🏆 Achievements & Interests
-
-* 🚀 Building AI and backend projects
-* 🧩 Interested in scalable software systems
-* 🤖 Exploring LLM and RAG architectures
-* 🌐 Networking & cybersecurity enthusiast
-* 🏗️ Hackathon project development
-* 📚 Continuous learning in software engineering
-
----
-
-# 🤝 Connect With Me
+### 💻 Programming Languages
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,sql" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+`YOLO` · `RAG` · `LLMs` · `Embeddings` · `Vector Search` · `scikit-learn`
+
+---
+
+### ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+`REST APIs` · `SQLAlchemy` · `Celery` · `Redis`
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
+</p>
+
+`pgvector` · `ChromaDB`
+
+---
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
+</p>
+
+---
+
+### 🐳 DevOps & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,vscode" />
+</p>
+
+`Wireshark` · `Cisco Packet Tracer`
+
+---
+
+### 🌐 Networking
+
+`TCP/IP` · `DNS` · `DHCP` · `HTTP/HTTPS` · `Routing` · `VLAN` · `OSPF` · `RIP` · `STP` · `NAT` · `ACL`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhineshsakthivel2007&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhineshsakthivel2007&layout=compact&theme=dracula&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dhineshsakthivel2007&theme=dracula&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhineshsakthivel2007&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhineshsakthivel2007&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+
+</div>
+
+---
+
+# 📚 Competitive Programming & Learning
+
+* 🧩 Actively practicing **Data Structures & Algorithms**
+* 💻 Solving programming problems using **C++**
+* 🧠 Strengthening problem-solving and algorithmic thinking
+* 📈 Building consistency on **LeetCode**
+* 🎯 Preparing for software engineering placements
+
+### LeetCode
+
+<a href="https://leetcode.com/u/bjAXlKYNxw/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+---
+
+# 🔬 Areas of Interest
+
+```text
+Artificial Intelligence
+        │
+        ├── Large Language Models
+        ├── RAG Systems
+        ├── Computer Vision
+        └── AI Agents
+
+Backend Engineering
+        │
+        ├── REST APIs
+        ├── Databases
+        ├── Distributed Systems
+        └── System Design
+
+Infrastructure
+        │
+        ├── Linux
+        ├── Docker
+        ├── Networking
+        └── Security
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/Dhineshsakthivel2007">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Building systems. Learning continuously. Solving real problems.</i>
-</p>
+<div align="center">
+
+### 💡 Build → Break → Learn → Improve → Repeat
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<i>Building intelligent systems and learning something new every day.</i>
+
+</div>
 ```
-
-### One thing I strongly recommend
-
-Before you publish this, **don't claim technologies you haven't actually used** just because they look good. Your GitHub becomes much stronger when a recruiter clicks `NetPilot` and sees the same technologies, architecture, commits, screenshots, and implementation reflected in the repository.
-
-Also replace:
-
-```text
-YOUR_LINKEDIN_URL
-```
-
-with your actual LinkedIn URL.
-
-**Next step:** your profile README is only ~30% of the job. The bigger improvement would be making your **4–5 pinned repositories look professional** with proper README, screenshots, architecture diagrams, installation instructions, and meaningful commits.
